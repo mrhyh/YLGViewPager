@@ -1,5 +1,6 @@
 # YFViewPager
 一个类似于安卓ViewPager的开源库 - iOS ViewPager 高级库  支持 iPhone/ipad/ipod
+版本说明：完全fork[YFViewPager](https://github.com/saxueyang/YFViewPager)的项目
 <br><br>
 <img src="https://github.com/saxueyang/YFViewPager/blob/master/Screen%20Shot.png?raw=true" width="414">
 <img src="https://github.com/saxueyang/YFViewPager/blob/master/YFViewPager/yfviewpager.gif?raw=true" width="414">
